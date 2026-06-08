@@ -30,11 +30,9 @@ Biomedical literature is vast, fragmented, and inconsistent, making it difficult
 
 ## 🏗️ System Architecture
 
-```
 <p align="center">
-  <img src="Project_Screenshots/09_Architecture.jpeg" width="800"/>
+  <img src="Project_Screenshots/09_Architecture.jpeg" width="800">
 </p>
-```
 
 ---
 
