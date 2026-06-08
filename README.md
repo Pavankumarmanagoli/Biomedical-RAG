@@ -32,7 +32,7 @@ Biomedical literature is vast, fragmented, and inconsistent, making it difficult
 
 ```
 <p align="center">
-  <img src="Project_Screenshots/Architecture.png" width="800"/>
+  <img src="Project_Screenshots/Architecture.jpeg" width="800"/>
 </p>
 
 ```
