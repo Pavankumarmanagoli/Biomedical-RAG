@@ -1,4 +1,4 @@
-# RAG-Approach-on-SPIN
+# Biomedical-RAG : RAG-Approach-on-SPIN
 
 ## 📌 Overview
 
@@ -71,25 +71,6 @@ Biomedical literature is vast, fragmented, and inconsistent, making it difficult
 - 140 interactions extracted  
 - 61 unique proteins identified  
 
----
-
-## 🚀 Setup
-
-```bash
-git clone https://github.com/your-username/biomedical-rag-spm.git
-cd biomedical-rag-spm
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-```bash
-python main.py
-streamlit run app.py
 
 ---
 
