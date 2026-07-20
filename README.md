@@ -72,7 +72,6 @@ Biomedical literature is vast, fragmented, and inconsistent, making it difficult
 ---
 
 ```
-## 🎥 Project Demo
+# 🎥 Project Demo
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Project%20Demo-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16Gohn8iNKkTA3zEZktclLExaFB8XuR8y/view?usp=drive_link)
-```
+[▶️ Watch the Project Demo](https://drive.google.com/file/d/16Gohn8iNKkTA3zEZktclLExaFB8XuR8y/view?usp=drive_link)
